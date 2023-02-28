@@ -1,2 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+
+Data value1 =new Data();
+
+value1.display(Data.format.bin);

@@ -1,0 +1,15 @@
+C:\Users\D\source\repos\ConverterDCS\convertorDCS\bin\Debug\net7.0\convertorDCS.exe
+C:\Users\D\source\repos\ConverterDCS\convertorDCS\bin\Debug\net7.0\convertorDCS.deps.json
+C:\Users\D\source\repos\ConverterDCS\convertorDCS\bin\Debug\net7.0\convertorDCS.runtimeconfig.json
+C:\Users\D\source\repos\ConverterDCS\convertorDCS\bin\Debug\net7.0\convertorDCS.dll
+C:\Users\D\source\repos\ConverterDCS\convertorDCS\bin\Debug\net7.0\convertorDCS.pdb
+C:\Users\D\source\repos\ConverterDCS\convertorDCS\obj\Debug\net7.0\convertorDCS.csproj.AssemblyReference.cache
+C:\Users\D\source\repos\ConverterDCS\convertorDCS\obj\Debug\net7.0\convertorDCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D\source\repos\ConverterDCS\convertorDCS\obj\Debug\net7.0\convertorDCS.AssemblyInfoInputs.cache
+C:\Users\D\source\repos\ConverterDCS\convertorDCS\obj\Debug\net7.0\convertorDCS.AssemblyInfo.cs
+C:\Users\D\source\repos\ConverterDCS\convertorDCS\obj\Debug\net7.0\convertorDCS.csproj.CoreCompileInputs.cache
+C:\Users\D\source\repos\ConverterDCS\convertorDCS\obj\Debug\net7.0\convertorDCS.dll
+C:\Users\D\source\repos\ConverterDCS\convertorDCS\obj\Debug\net7.0\refint\convertorDCS.dll
+C:\Users\D\source\repos\ConverterDCS\convertorDCS\obj\Debug\net7.0\convertorDCS.pdb
+C:\Users\D\source\repos\ConverterDCS\convertorDCS\obj\Debug\net7.0\convertorDCS.genruntimeconfig.cache
+C:\Users\D\source\repos\ConverterDCS\convertorDCS\obj\Debug\net7.0\ref\convertorDCS.dll
